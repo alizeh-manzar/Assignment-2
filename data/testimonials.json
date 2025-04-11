@@ -1,0 +1,36 @@
+{
+  "testimonials": [
+    {
+      "name": "Sarah Johnson",
+      "position": "Project Manager",
+      "company": "TechCorp",
+      "quote": "Momentum has completely transformed how our team collaborates. We've seen a 40% increase in productivity since implementing it."
+    },
+    {
+      "name": "Michael Chen",
+      "position": "CTO",
+      "company": "Innovate Solutions",
+      "quote": "The task organization features in Momentum are unparalleled. It's intuitive, powerful, and has helped us deliver projects ahead of schedule consistently."
+    },
+    {
+      "name": "Emily Rodriguez",
+      "position": "Marketing Director",
+      "company": "Global Brands",
+      "quote": "We've tried numerous project management tools, but Momentum stands out for its simplicity and powerful features. Our team adopted it immediately with minimal training."
+
+    },
+    {
+      "name": "David Kim",
+      "position": "Product Owner",
+      "company": "NextGen Software",
+      "quote": "The reporting and analytics in Momentum give me the insights I need to make informed decisions. It's become an essential tool for our product development process."
+
+    },
+    {
+      "name": "Lisa Thompson",
+      "position": "Team Lead",
+      "company": "Creative Solutions",
+      "quote": "Momentum's collaboration features have been a game-changer for our remote team. We feel connected and aligned despite being spread across different time zones."
+    }
+  ]
+}

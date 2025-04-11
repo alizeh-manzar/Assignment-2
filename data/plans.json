@@ -1,0 +1,94 @@
+{
+  "plans": [
+    {
+      "name": "Basic",
+      "price": "$9.99/month",
+      "features": {
+        "users": "Up to 5 users",
+        "projects": "10 projects",
+        "storage": "10 GB",
+        "reporting": "Basic",
+        "api": false,
+        "support": "Email only",
+        "customization": false,
+        "integrations": "5 integrations",
+        "automation": false,
+        "sla": false
+      }
+    },
+    {
+      "name": "Pro",
+      "price": "$19.99/month",
+      "features": {
+        "users": "Up to 20 users",
+        "projects": "Unlimited",
+        "storage": "50 GB",
+        "reporting": "Advanced",
+        "api": true,
+        "support": "Email & Chat",
+        "customization": true,
+        "integrations": "20 integrations",
+        "automation": true,
+        "sla": false
+      }
+    },
+    {
+      "name": "Enterprise",
+      "price": "Custom",
+      "features": {
+        "users": "Unlimited",
+        "projects": "Unlimited",
+        "storage": "Unlimited",
+        "reporting": "Custom",
+        "api": true,
+        "support": "24/7 Priority",
+        "customization": true,
+        "integrations": "Unlimited",
+        "automation": true,
+        "sla": true
+      }
+    }
+  ],
+  "features": [
+    {
+      "id": "users",
+      "name": "Team Members"
+    },
+    {
+      "id": "projects",
+      "name": "Projects"
+    },
+    {
+      "id": "storage",
+      "name": "Storage"
+    },
+    {
+      "id": "reporting",
+      "name": "Reporting"
+    },
+    {
+      "id": "api",
+      "name": "API Access"
+    },
+    {
+      "id": "support",
+      "name": "Support"
+    },
+    {
+      "id": "customization",
+      "name": "Customization"
+    },
+    {
+      "id": "integrations",
+      "name": "Integrations"
+    },
+    {
+      "id": "automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "sla",
+      "name": "SLA Guarantee"
+    }
+  ]
+}

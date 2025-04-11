@@ -1,0 +1,43 @@
+{
+  "features": [
+    {
+      "id": "automation",
+      "title": "Workflow Automation",
+      "icon": "bi-gear",
+      "shortDescription": "Automate repetitive tasks and workflows to save time and reduce errors.",
+      "description": "Our automation tools help you streamline your workflow by automating repetitive tasks.",
+      "points": [
+        "Create custom automation rules",
+        "Set up triggers and actions",
+        "Schedule recurring tasks",
+        "Automate notifications and reminders"
+      ]
+    },
+    {
+      "id": "mobile-access",
+      "title": "Mobile Access",
+      "icon": "bi-phone",
+      "shortDescription": "Access your projects and tasks from anywhere with our mobile apps.",
+      "description": "Stay productive on the go with our fully-featured mobile applications for iOS and Android.",
+      "points": [
+        "Full feature parity with desktop version",
+        "Offline mode for working without internet",
+        "Push notifications for important updates",
+        "Touch-optimized interface"
+      ]
+    },
+    {
+      "id": "integrations",
+      "title": "Third-party Integrations",
+      "icon": "bi-puzzle",
+      "shortDescription": "Connect Momentum with your favorite tools and services.",
+      "description": "Seamlessly integrate Momentum with over 100 third-party services and tools.",
+      "points": [
+        "Integration with popular services like Slack, Google Drive, and more",
+        "Custom API for advanced integrations",
+        "Data synchronization across platforms",
+        "Single sign-on capabilities"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "offices": [
+    {
+      "city": "Lahore",
+      "country": "Pakistan",
+      "address": "123 Main Street, Lahore City, 54000",
+      "phone": "+92 42 1234 5678",
+      "email": "lahore@momentum.com"
+    },
+    {
+      "city": "Islamabad",
+      "country": "Pakistan",
+      "address": "456 Tech Avenue, Blue Area, Islamabad, 44000",
+      "phone": "+92 51 8765 4321",
+      "email": "islamabad@momentum.com"
+    },
+    {
+      "city": "Karachi",
+      "country": "Pakistan",
+      "address": "789 Business Bay, Clifton, Karachi, 75600",
+      "phone": "+92 21 9876 5432",
+      "email": "karachi@momentum.com"
+    },
+    {
+      "city": "San Francisco",
+      "country": "USA",
+      "address": "101 Market Street, San Francisco, CA 94105",
+      "phone": "+1 415 555 1234",
+      "email": "sf@momentum.com"
+    },
+    {
+      "city": "London",
+      "country": "UK",
+      "address": "10 Tech City, Shoreditch, London, EC1V 9NR",
+      "phone": "+44 20 7123 4567",
+      "email": "london@momentum.com"
+    }
+  ]
+}

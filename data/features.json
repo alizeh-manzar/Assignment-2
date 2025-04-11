@@ -1,0 +1,90 @@
+{
+  "features": [
+    {
+      "id": "task-organization",
+      "title": "Task Organization",
+      "icon": "bi-list-check",
+      "description": "Our comprehensive task organization system helps teams stay on top of their work with intuitive tools for creating, assigning, and tracking tasks.",
+      "benefits": [
+        "Streamlined workflow management",
+        "Clear task ownership and accountability",
+        "Customizable task categories and labels",
+        "Deadline tracking and reminders",
+        "Task dependencies and relationships"
+      ],
+      "usedBy": ["Adobe", "Microsoft", "Shopify", "Uber"]
+    },
+    {
+      "id": "team-collaboration",
+      "title": "Team Collaboration",
+      "icon": "bi-people",
+      "description": "Foster seamless collaboration among team members with our real-time communication and file sharing tools.",
+      "benefits": [
+        "Real-time messaging and updates",
+        "Document collaboration and version control",
+        "Team dashboards for shared visibility",
+        "Permission-based access control",
+        "Integration with popular communication tools"
+      ],
+      "usedBy": ["Slack", "Airbnb", "Netflix", "Spotify"]
+    },
+    {
+      "id": "progress-tracking",
+      "title": "Progress Tracking",
+      "icon": "bi-graph-up",
+      "description": "Gain valuable insights into your project's progress with our comprehensive tracking and reporting tools.",
+      "benefits": [
+        "Visual progress indicators and charts",
+        "Customizable reporting dashboards",
+        "Time tracking and estimation tools",
+        "Performance analytics and trends",
+        "Export capabilities for stakeholder reporting"
+      ],
+      "usedBy": ["IBM", "Amazon", "Tesla", "Deloitte"]
+    }
+  ],
+  "additionalFeatures": [
+    {
+      "id": "automation",
+      "title": "Workflow Automation",
+      "icon": "bi-gear",
+      "description": "Automate repetitive tasks and workflows to save time and reduce errors.",
+      "benefits": [
+        "Custom automation rules and triggers",
+        "Scheduled tasks and recurring items",
+        "Automated notifications and reminders",
+        "Integration with external services via webhooks",
+        "Template-based workflow creation"
+      ],
+      "usedBy": ["Salesforce", "HubSpot", "Asana", "Monday.com"]
+    },
+    {
+      "id": "mobile-access",
+      "title": "Mobile Access",
+      "icon": "bi-phone",
+      "description": "Access your projects and tasks from anywhere with our mobile apps for iOS and Android.",
+      "benefits": [
+        "Full feature parity with desktop version",
+        "Offline mode for working without internet",
+        "Push notifications for important updates",
+        "Touch-optimized interface",
+        "Biometric authentication for security"
+      ],
+      "usedBy": ["Uber", "Lyft", "DoorDash", "Instacart"]
+    },
+    {
+      "id": "integrations",
+      "title": "Third-party Integrations",
+      "icon": "bi-puzzle",
+      "description": "Connect Momentum with your favorite tools and services for a seamless workflow.",
+      "benefits": [
+        "Integration with 100+ popular services",
+        "Custom API for advanced integrations",
+        "Data synchronization across platforms",
+        "Single sign-on capabilities",
+        "Webhook support for custom workflows"
+      ],
+      "usedBy": ["Zapier", "IFTTT", "Microsoft Teams", "Slack"]
+    }
+  ]
+}
